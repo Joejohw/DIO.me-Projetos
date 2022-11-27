@@ -1,5 +1,6 @@
 INDEX VERSION 1.126+C:\Repo\DIO.me-Projetos\Projetos\JAVA Quebec -Bootcamp\Banco Digital\.metadata\.plugins\org.eclipse.jdt.core
 2328428522.index
+169004592.index
 72847613.index
 203860981.index
 3121174920.index
